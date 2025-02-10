@@ -1,8 +1,8 @@
 # Dogs of 324
 
 ## section 02
-- Ginger
-- Baco
+- Ginger is very fluffy!
+- Baco is really fast!
 - Frodo
 - Maui
 - Bartholomew
