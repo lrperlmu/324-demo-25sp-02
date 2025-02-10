@@ -1,6 +1,6 @@
 # CATS of 324
 
-# section 02
+## section 02
 - Mocha
 - Edward
 - Princess
@@ -9,4 +9,4 @@
 - Guppy
 
 
-# section 01
+## section 01
